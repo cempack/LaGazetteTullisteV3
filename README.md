@@ -1,75 +1,72 @@
-# Nuxt 3 Minimal Starter
+# LaGazetteTulliste - Journal en ligne
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+LaGazetteTulliste est un journal en ligne qui se consacre à la couverture de l’actualité locale et régionale de Tulle et de ses environs. Notre mission est d'informer la communauté avec des nouvelles pertinentes, des reportages approfondis et des analyses perspicaces.
 
-## Setup
+## Technologies utilisées
 
-Make sure to install the dependencies:
+Le site LaGazetteTulliste a été développé en utilisant le framework [NuxtJS](https://nuxt.com) (framework fullstack javascript construit sur VueJS). Ce choix de développement nous permet de fournir une expérience utilisateur optimale tout en garantissant la flexibilité nécessaire pour évoluer avec les besoins changeants de notre lectorat.
 
-```bash
-# npm
-npm install
+## Auteur
 
-# pnpm
-pnpm install
+- **Auteur :** Elliot Moreau
+- **Email :** contact@elliotmoreau.fr
 
-# yarn
-yarn install
+## Équipe
 
-# bun
-bun install
-```
+Rencontrez l'équipe derrière LaGazetteTulliste :
 
-## Development Server
+- ### Elliot Moreau
+  - **Rôle :** Développeur Web et Co-fondateur
+  - **Âge :** 16 Ans
+  - **Description :** Je développe depuis quelques années maintenant et c'est moi qui ai conçu ce site, permettant à ce projet de devenir concret.
+  - **Image :** <br>
+  <img src="https://journal.elliotmoreau.fr/static/img/Elliot.jpg" alt="Elliot Moreau" width="150">
 
-Start the development server on `http://localhost:3000`:
+- ### Romain Gorse
+  - **Rôle :** Rédacteur en chef, Co-fondateur et Reporter
+  - **Âge :** 15 Ans
+  - **Description :** En 2022, j'ai décidé de me lancer dans la rédaction d'un journal numérique avec un de mes amis.
+  - **Image :** <br>
+  <img src="https://journal.elliotmoreau.fr/static/img/Romain.jpg" alt="Romain Gorse" width="150">
 
-```bash
-# npm
-npm run dev
+- ### Titouan Soleilhavoup
+  - **Rôle :** Community Manager
+  - **Âge :** 15 Ans
+  - **Description :** Je suis la personne avec le plus de réseaux sociaux de l'équipe. C'est donc moi qui dirige les réseaux.
+  - **Image :** <br>
+  <img src="https://journal.elliotmoreau.fr/static/img/Titouan.jpg" alt="Titouan Soleilhavoup" width="150">
 
-# pnpm
-pnpm run dev
+- ### William Laban
+  - **Rôle :** Gérant de la partie sport
+  - **Âge :** 15 Ans
+  - **Description :** Gérant de la partie sport.
+  - **Image :** <br>
+  <img src="https://journal.elliotmoreau.fr/static/img/William.jpg" alt="William Laban" width="150">
 
-# yarn
-yarn dev
+## Réseaux sociaux
 
-# bun
-bun run dev
-```
+- **Twitter :** [@LaGTulliste](https://twitter.com/LaGTulliste)
+- **YouTube :** [LaGazetteTulliste sur YouTube](https://www.youtube.com/channel/UCGNIhM1qkrQvTD32q-fDcWw)
+- **Instagram :** [LaGazetteTulliste sur Instagram](https://instagram.com/lagazettetulliste)
+- **TikTok :** [LaGazetteTulliste sur TikTok](https://www.tiktok.com/@lagazettetulliste)
 
-## Production
+## Podcast
 
-Build the application for production:
+- **RSS Feed :** [LaGazetteTulliste sur RSS](https://journal.elliotmoreau.fr/feed/podcast)
+- **Spotify :** [LaGazetteTulliste sur Spotify](https://open.spotify.com/show/0OaPBlr9mPdFMM25FJrAVj)
+- **Apple Podcasts :** [LaGazetteTulliste sur Apple Podcasts](https://podcasts.apple.com/us/podcast/lagazettetulliste-%7C-podcast/id1653157351)
+- **Deezer :** [LaGazetteTulliste sur Deezer](https://www.deezer.com/fr/show/1000400821)
+- **Amazon Music :** [LaGazetteTulliste sur Amazon Music](https://music.amazon.fr/podcasts/b64cd345-d92b-4d1a-981b-c01cb154cf03/lagazettetulliste-podcast)
+- **Audible :** [LaGazetteTulliste sur Audible](https://www.audible.fr/pd/La-Gazette-Tulliste-Podcast-Podcast/B0BLCP2CFV?action_code=ASSGB149080119000H)
 
-```bash
-# npm
-npm run build
+## Contact
 
-# pnpm
-pnpm run build
+Pour toute question, suggestion ou collaboration, n'hésitez pas à nous contacter :
 
-# yarn
-yarn build
+- **Email :** contact@elliotmoreau.fr
 
-# bun
-bun run build
-```
+## Licence
 
-Locally preview production build:
+© 2023 LaGazetteTulliste. Tous droits réservés.
 
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+L'utilisation **non autorisée** du code source, y compris la reproduction ou la distribution sans autorisation préalable, est strictement interdite. Pour toute demande d'utilisation du code, veuillez nous contacter à l'adresse e-mail indiquée ci-dessus.
