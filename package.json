@@ -17,5 +17,8 @@
   },
   "engines": {
     "node": "21.2.0"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^2.12.3"
   }
 }
