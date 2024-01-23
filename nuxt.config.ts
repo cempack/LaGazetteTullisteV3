@@ -7,6 +7,6 @@ export default defineNuxtConfig({
     'nuxt-simple-robots'
   ],
   site: {
-    url: 'https://v3.journal.elliotmoreau.fr',
+    url: process.env.SITE_URL,
   }
 })
