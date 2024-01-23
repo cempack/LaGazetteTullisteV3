@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "lagazettetulliste",
   "private": true,
   "type": "module",
   "scripts": {
@@ -11,7 +11,9 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
+    "@nuxtjs/sitemap": "^5.0.5",
     "nuxt": "^3.8.2",
+    "nuxt-simple-robots": "^4.0.0-rc.13",
     "vue": "^3.4.14",
     "vue-router": "^4.2.5"
   },
