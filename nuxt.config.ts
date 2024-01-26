@@ -8,5 +8,9 @@ export default defineNuxtConfig({
   ],
   site: {
     url: process.env.SITE_URL,
+  },
+  ui: {
+    primary: 'cyan',
+    gray: 'cool'
   }
 })
