@@ -1,5 +1,5 @@
 <template>
-    <h1>Bonjour tout le monde 😁</h1>
+    <h1>Bonjour tout le monde </h1>
 </template>
 
 <style scoped>
