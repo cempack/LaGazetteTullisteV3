@@ -8,7 +8,7 @@ Le site LaGazetteTulliste a été développé en utilisant le framework [NuxtJS]
 
 ## Auteur
 
-- **Auteur :** Elliot Moreau
+- **Auteur :** Elliot Moreau et William Laban
 - **Email :** contact@elliotmoreau.fr
 
 ## Équipe
@@ -30,16 +30,16 @@ Rencontrez l'équipe derrière LaGazetteTulliste :
   <img src="https://journal.elliotmoreau.fr/static/img/Romain.jpg" alt="Romain Gorse" width="150">
 
 - ### Titouan Soleilhavoup
-  - **Rôle :** Community Manager
+  - **Rôle :** Community Manager et gérant de la partie sport
   - **Âge :** 15 Ans
   - **Description :** Je suis la personne avec le plus de réseaux sociaux de l'équipe. C'est donc moi qui dirige les réseaux.
   - **Image :** <br>
   <img src="https://journal.elliotmoreau.fr/static/img/Titouan.jpg" alt="Titouan Soleilhavoup" width="150">
 
 - ### William Laban
-  - **Rôle :** Gérant de la partie sport
+  - **Rôle :** Second développeur Web
   - **Âge :** 15 Ans
-  - **Description :** Gérant de la partie sport.
+  - **Description :** Jaide pour le code mais je n'est pas encore fini d'apprendre.
   - **Image :** <br>
   <img src="https://journal.elliotmoreau.fr/static/img/William.jpg" alt="William Laban" width="150">
 
