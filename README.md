@@ -39,7 +39,7 @@ Rencontrez l'équipe derrière LaGazetteTulliste :
 - ### William Laban
   - **Rôle :** Second développeur Web
   - **Âge :** 15 Ans
-  - **Description :** Jaide pour le code mais je n'est pas encore fini d'apprendre.
+  - **Description :** J'aide pour le code mais je n'est pas encore fini d'apprendre.
   - **Image :** <br>
   <img src="https://journal.elliotmoreau.fr/static/img/William.jpg" alt="William Laban" width="150">
 
