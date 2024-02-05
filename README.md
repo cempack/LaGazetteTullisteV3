@@ -31,7 +31,7 @@ Rencontrez l'équipe derrière LaGazetteTulliste :
 
 - ### Titouan Soleilhavoup
   - **Rôle :** Community Manager et gérant de la partie sport
-  - **Âge :** 15 Ans
+  - **Âge :** 16 Ans
   - **Description :** Je suis la personne avec le plus de réseaux sociaux de l'équipe. C'est donc moi qui dirige les réseaux.
   - **Image :** <br>
   <img src="https://journal.elliotmoreau.fr/static/img/Titouan.jpg" alt="Titouan Soleilhavoup" width="150">
