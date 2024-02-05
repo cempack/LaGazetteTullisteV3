@@ -6,9 +6,9 @@ LaGazetteTulliste est un journal en ligne qui se consacre à la couverture de l�
 
 Le site LaGazetteTulliste a été développé en utilisant le framework [NuxtJS](https://nuxt.com) (framework fullstack javascript construit sur VueJS). Ce choix de développement nous permet de fournir une expérience utilisateur optimale tout en garantissant la flexibilité nécessaire pour évoluer avec les besoins changeants de notre lectorat.
 
-## Auteur
+## Auteurs
 
-- **Auteur :** Elliot Moreau et William Laban
+- **Auteurs :** Elliot Moreau et William Laban
 - **Email :** contact@elliotmoreau.fr
 
 ## Équipe
@@ -67,6 +67,6 @@ Pour toute question, suggestion ou collaboration, n'hésitez pas à nous contact
 
 ## Licence
 
-© 2023 LaGazetteTulliste. Tous droits réservés.
+© 2024 LaGazetteTulliste. Tous droits réservés.
 
 L'utilisation **non autorisée** du code source, y compris la reproduction ou la distribution sans autorisation préalable, est strictement interdite. Pour toute demande d'utilisation du code, veuillez nous contacter à l'adresse e-mail indiquée ci-dessus.
